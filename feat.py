@@ -5,3 +5,6 @@ def feat1():
     pass
 def main():
     pass
+
+def feat2():
+    pass
