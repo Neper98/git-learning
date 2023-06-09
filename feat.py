@@ -3,3 +3,5 @@ def add(a,b):
 
 def feat1():
     pass
+def main():
+    pass
